@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthdayAndroidTutorial</string>
+    <string name="happy_birthday">Happy Birthday, Tiago!</string>
+    <string name="from">From Peru.</string>
+</resources>
